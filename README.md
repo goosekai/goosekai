@@ -7,6 +7,8 @@
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
 <img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
 
+<br/>
+
 ### 🗒 Learning
 
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
