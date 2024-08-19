@@ -1,7 +1,7 @@
 ### 👋 Hi I'm Kai
 
 - 🌱 I’m currently learning to become a **Software Developer**
-- ⚡ Fun fact: **I love listening to music**
+- 🎶 Fun fact: **I love listening to music**
 
 ### 📐 Languages and Tools
 
