@@ -1,5 +1,8 @@
 ### 👋 Hi I'm Kai
 
+- 🌱 I’m currently learning to become a **Software Developer**
+- ⚡ Fun fact: **I love listening to music**
+
 ### 📐 Languages and Tools
 
 <img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
