@@ -16,4 +16,4 @@
 ### 🗒 Learning
 
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
-<img align="left" height="32px" width="32px" alt="Nextjs logo" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
+<img align="left" height="32px" width="32px" alt="Nextjs logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzhiBCKHo7mIImBkNqbVA7jAizJ4-sXxdxA&s">
